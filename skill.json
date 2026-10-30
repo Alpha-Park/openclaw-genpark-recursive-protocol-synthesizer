@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-recursive-protocol-synthesizer",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Recursive Protocol Synthesizer - Robinson type unification and schema lens synthesizer with Graph Edit Distance.",
+  "tools": [
+    "unify_type_signatures",
+    "compute_schema_structural_distance",
+    "synthesize_bidirectional_lens"
+  ]
+}
